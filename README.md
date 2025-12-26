@@ -43,7 +43,7 @@ GitHub: https://github.com/m-mahdi-abbaszade
 
 LinkedIn: https://www.linkedin.com/in/mohammad-mahdi-abbaszadeh/
 
-Telegram: t.me/mohammadinvoker
+Telegram: https://t.me/mohammadinvoker
 
 ## Notes
 The website is fully responsive and works on desktop and mobile devices.
