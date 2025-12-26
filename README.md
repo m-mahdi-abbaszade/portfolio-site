@@ -25,11 +25,11 @@ The source code is available on GitHub:
 
 1. Clone the repository:
 
-```bash
+
 git clone https://github.com/m-mahdi-abbaszade/portfolio-site.git
 Serve locally (optional):
 
-bash
+##bash
 Copy code
 # Using Python 3
 cd portfolio-site
@@ -38,14 +38,14 @@ Then open http://localhost:8000 in your browser.
 
 Or deploy via GitHub Pages (recommended for free hosting).
 
-Contact
+##Contact
 GitHub: https://github.com/m-mahdi-abbaszade
 
 LinkedIn: https://www.linkedin.com/in/mohammad-mahdi-abbaszadeh/
 
 Telegram: t.me/mohammadinvoker
 
-Notes
+##Notes
 The website is fully responsive and works on desktop and mobile devices.
 
 All projects are open-source and hosted on GitHub.
